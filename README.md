@@ -1,1 +1,0 @@
-# Crypto_Quant_Trading2
