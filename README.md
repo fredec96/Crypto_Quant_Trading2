@@ -61,7 +61,7 @@ git clone <paste link here>
 ```
 * Data collection, cleaning, and concatenation was done in the ```bitfinex_data_collection.ipynb``` file 
 * For ease of use the cleaned and concatenated CSV files have already been saved in the repository as ```Bitcoin_Data.csv``` and ```Coins_Data_Master.csv```
-* All of the original CSV files are located in the Raw_CSV branch 
+* All of the original CSV files are located in the ```Raw_CSV``` branch 
 
 Open the ```data_analysis.ipynb``` file and run to view the data analysis and graphics 
   
