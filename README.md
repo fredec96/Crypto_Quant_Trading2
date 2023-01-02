@@ -33,6 +33,7 @@ Monero (XMR) and Ethereum (ETH) provide greater returns than Bitcoin and yield 1
 * [hvPlot](https://github.com/holoviz/hvplot) - To create interactive plots
 
 Historical Data Collected from: https://www.cryptodatadownload.com/data/bitfinex/
+
 ---
 ## Installation Guide 
 Before running the application first install the following dependencies.
